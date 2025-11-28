@@ -55,7 +55,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 ## 📈 MODEL GRAPH
 
-![WhatsApp Image 2025-11-15 at 22 28 11_b3bc129b](https://github.com/user-attachments/assets/2bdba24b-8a56-4ffa-87a2-a4cc212796fd)
+<img width="896" height="1163" alt="image" src="https://github.com/user-attachments/assets/d7417aed-6fe7-4d4c-8574-a21b9e273b35" />
 
 ---
 
