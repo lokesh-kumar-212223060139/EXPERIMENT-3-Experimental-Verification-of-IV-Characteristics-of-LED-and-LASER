@@ -34,13 +34,17 @@ Photodetectors usually comes in variety of forms like photoconductive, photovolt
 	Switch on the power supply.
 	Keep the potentiometer P3 in its maximum position (anti-clockwise rotation). P3 is used to control current flowing through the LED.
 	Keep the potentiometer P4 in its fully clockwise rotation.P4 is used to control bias voltage of the LED.
-	To get the IV characteristics of LED, rotate P3 slowly and measure forward current and corresponding forward voltage. Take number of such readings for various current values and plot IV characteristics graph for the LED.
+	To get the IV characteristics of LED, rotate P3 slowly and measure forward current and corresponding forward voltage. Take number of such readings for various current values and plot IV characteristics graph for the LED.
 •	For each reading taken above, find out the power, which is product of I and
 V. This is the electrical power supplied to the LED. Data sheets for the LED specify optical power coupled into plastic fiber when forward current was 10 mA as 200 mW. This means that the electrical power at 10 mA current is converted into 200 mW of optical energy. Hence the efficiency of the LED comes out to be approx. 1.15%.
 •	With this efficiency assumed, find out optical power coupled into plastic optical fiber for each of the reading. Plot the graph of forward current v/s output optical power of the LED.
 •	Similarly measure the current at the detector.
 •	Plot the graph of receiver current v/s output optical power of the LED.
 •	Perform the above procedure again for all the combinations of Transmitter & Receiver.
+
+## Block Diagram:
+
+<img width="1135" height="715" alt="image" src="https://github.com/user-attachments/assets/099d788e-dd7f-45b8-9d7a-90843a853ada" />
 
 ## 📊 TABULATION
 
@@ -51,6 +55,8 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 ---
 
 ## 📈 MODEL GRAPH
+
+<img width="426" height="326" alt="image" src="https://github.com/user-attachments/assets/b64774ec-36a1-4efa-bc3e-4dc324647d34" />
 
 <img width="896" height="1163" alt="image" src="https://github.com/user-attachments/assets/d7417aed-6fe7-4d4c-8574-a21b9e273b35" />
 
